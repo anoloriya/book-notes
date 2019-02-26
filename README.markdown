@@ -1,4 +1,4 @@
-Notes from books and other interesting things that I've read. Enjoy!
+Notes from books and other interesting things we've read. Enjoy!
 
 Quick description of how we take notes:
 
