@@ -6,7 +6,7 @@ Quick description of how we take notes:
 >
 > When we read something that we want to summarize, we mentally commit it to memory and Command-Tab over to the text editor and type it out in Markdown. Don't copy-and-paste, because this solution allows for better retention of the information and allows for resrtucturing of the passage of interest (usually editing for length).
 >
-> Humnan memory is generally not good enough and it's necessay to Command-Tab back and forth, re-reading it in the Kindle app, and then re-reading your typing.
+> Human memory is generally not good enough and it's necessay to Command-Tab back and forth, re-reading it in the app, and then re-reading your typing.
 > 
 > No highlights or any fancy exporting. Sorry if that's anti-climactic.
 > 
